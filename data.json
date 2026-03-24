@@ -47,5 +47,39 @@
   "seed": 1158379356,
   "generatedAt": "2026-01-24T21:50:16.437Z",
   "demoUrl": "https://websouffle.github.io/petropoulos-christo-2026/",
-  "prospectId": "1f127935-0b0d-6b02-b95b-11f81ed853c6"
+  "prospectId": "1f127935-0b0d-6b02-b95b-11f81ed853c6",
+  "lastMailTemplate": "demo_website",
+  "lastMailStatus": "sent",
+  "lastMailSentAt": "2026-03-24T15:08:31+00:00",
+  "mailHistory": [
+    {
+      "template": "demo_website",
+      "status": "sent",
+      "sentAt": "2026-03-24T15:08:31+00:00",
+      "toEmail": "chri.petropoulos@gmail.com",
+      "providerMessageId": "<202603241508.64758902698@smtp-relay.mailin.fr>",
+      "error": null,
+      "payloadHash": "ae1400720b08901fd96dd07560e50c12c4d451b06d247d1d0b1e36890605ee56",
+      "payload": {
+        "sender": {
+          "name": "Websoufflé",
+          "email": "hello@websouffle.com"
+        },
+        "to": [
+          {
+            "email": "chri.petropoulos@gmail.com",
+            "name": "Petropoulos Christo"
+          }
+        ],
+        "bcc": [
+          {
+            "email": "hello@websouffle.com"
+          }
+        ],
+        "subject": "A website concept for Petropoulos Christo",
+        "textContent": "Hi Petropoulos,\n\nI found Petropoulos Christo's details on Gouden Gids and noticed that as a Elektriciens - Installateurs in Sint-Agatha-Berchem, you don’t seem to have a website yet. I took the liberty of putting together a first concept — no strings attached, just in case it’s of interest.\n\nhttps://websouffle.github.io/petropoulos-christo-2026/\n\nCompletely free design, no obligation whatsoever.\n\nFeel free to reply if you’re interested — I’d love to hear your thoughts.\n\n---\nKengy Van Hijfte\nWebsoufflé\nhello@websouffle.com | +32476607441\nwebsouffle.com",
+        "htmlContent": "<!doctype html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n  <meta name=\"color-scheme\" content=\"light\">\n  <meta name=\"supported-color-schemes\" content=\"light\">\n  <title>A website concept for Petropoulos Christo</title>\n  <style>\n    :root { color-scheme: light; supported-color-schemes: light; }\n    body, table, td, a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }\n    table, td { mso-table-lspace:0pt; mso-table-rspace:0pt; }\n    img { -ms-interpolation-mode:bicubic; border:0; outline:none; text-decoration:none; }\n    @media (max-width:600px) {\n      .email-card { margin:16px !important; border-radius:12px !important; }\n      .card-inner { padding:28px 24px !important; }\n      .cta-btn { padding:14px 28px !important; font-size:15px !important; }\n    }\n  </style>\n</head>\n<body style=\"margin:0; padding:0; background-color:#f1f5f9; font-family:Arial,Helvetica,sans-serif; -webkit-font-smoothing:antialiased;\">\n  <!--[if mso]><table role=\"presentation\" width=\"600\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td><![endif]-->\n  <div style=\"max-width:600px; margin:0 auto;\">\n    <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n      <!-- Spacer top -->\n      <tr><td style=\"height:40px; font-size:0; line-height:0;\">&nbsp;</td></tr>\n      <!-- Card -->\n      <tr>\n        <td style=\"padding:0 16px;\">\n          <table role=\"presentation\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" class=\"email-card\" style=\"background-color:#ffffff; border-radius:16px; box-shadow:0 1px 3px rgba(0,0,0,0.06);\">\n            <!-- Greeting + Hook -->\n            <tr>\n              <td class=\"card-inner\" style=\"padding:40px 40px 24px 40px; font-size:16px; line-height:26px; color:#334155;\">\n                <p style=\"margin:0 0 16px 0; font-size:16px; line-height:26px;\">Hi Petropoulos,</p>\n                <p style=\"margin:0; font-size:16px; line-height:26px;\">I found Petropoulos Christo's details on Gouden Gids and noticed that as a Elektriciens - Installateurs in Sint-Agatha-Berchem, you don’t seem to have a website yet. I took the liberty of putting together a first concept — no strings attached, just in case it’s of interest.</p>\n              </td>\n            </tr>\n            <!-- CTA Button -->\n            <tr>\n              <td style=\"padding:8px 40px 24px 40px;\" align=\"center\">\n                <a href=\"https://websouffle.github.io/petropoulos-christo-2026/\" target=\"_blank\" class=\"cta-btn\" style=\"display:inline-block; background-color:#2563eb; color:#ffffff; text-decoration:none; font-size:16px; font-weight:600; padding:16px 36px; border-radius:10px; mso-padding-alt:0;\">See your website concept</a>\n              </td>\n            </tr>\n            <!-- Value prop + Close -->\n            <tr>\n              <td style=\"padding:0 40px 40px 40px; font-size:15px; line-height:24px; color:#475569;\">\n                <p style=\"margin:0 0 12px 0;\">Completely free design, no obligation whatsoever.</p>\n                <p style=\"margin:0;\">Feel free to reply if you’re interested — I’d love to hear your thoughts.</p>\n              </td>\n            </tr>\n            <!-- Signature -->\n            <tr>\n              <td style=\"padding:0 40px 40px 40px; border-top:1px solid #e2e8f0; padding-top:24px;\">\n                <p style=\"margin:0; font-size:14px; line-height:22px; color:#334155; font-weight:600;\">Kengy Van Hijfte</p>\n                <p style=\"margin:2px 0 0 0; font-size:14px; line-height:22px; color:#334155;\">Websoufflé</p>\n                <p style=\"margin:2px 0 0 0; font-size:13px; line-height:20px; color:#64748b;\">\n                  <a href=\"mailto:hello@websouffle.com\" style=\"color:#2563eb; text-decoration:none;\">hello@websouffle.com</a> &middot; +32476607441\n                </p>\n                <p style=\"margin:2px 0 0 0; font-size:13px; line-height:20px;\">\n                  <a href=\"https://websouffle.com\" style=\"color:#2563eb; text-decoration:none;\">websouffle.com</a>\n                </p>\n              </td>\n            </tr>\n          </table>\n        </td>\n      </tr>\n      <!-- Spacer bottom -->\n      <tr><td style=\"height:40px; font-size:0; line-height:0;\">&nbsp;</td></tr>\n    </table>\n  </div>\n  <!--[if mso]></td></tr></table><![endif]-->\n</body>\n</html>"
+      }
+    }
+  ]
 }
